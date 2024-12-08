@@ -45,7 +45,7 @@ return 0;
 
 ## Links
 
-Here's some text with a [link](https://umich.edu/) to the University of Michigan wesbite and [another link](https://wolverinesoftstudio.notion.site/WolverineSoft-Studio-46dfec6de0c846409d7d39e42d98189c) to the WolverineSoft Studio website.
+Here's some text with a [link](https://umich.edu/) to the University of Michigan wesbite.
 
 ---
 
